@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/cannon/Blueprints/BP_AdvancedCannonSystem.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/FPAlamoMap.umap",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/FPAlamoMap_BuiltData.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/M_BarracksRoof.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/M_Chapel.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/M_FergusonRifle.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/M_Sand.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/MI_MasterWall.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Materials/M_Triplanar.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Props/Material__2.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Props/standardSurface1.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Assets/Props/standardSurface2.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Whitebox/_Concrete_Warm_.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/Whitebox/lambert2.uasset",
+				"C:/Users/emman/OneDrive/Documents/Unreal Projects/MyProject2/Content/cannon/Demo/EpicContent/Blueprints/BP_CannonCharacter.uasset"
+			]
+		}
+	]
+}
