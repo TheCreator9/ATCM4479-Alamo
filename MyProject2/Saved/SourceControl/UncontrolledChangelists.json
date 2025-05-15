@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/HamDo/Documents/Git/ATCM4479-Alamo/MyProject2/Content/Assets/Materials/M_Landscape.uasset",
+				"C:/Users/HamDo/Documents/Git/ATCM4479-Alamo/MyProject2/Content/FPAlamoMap.umap",
+				"C:/Users/HamDo/Documents/Git/ATCM4479-Alamo/MyProject2/Content/FPAlamoMap_sharedassets/Dirt_LayerInfo.uasset",
+				"C:/Users/HamDo/Documents/Git/ATCM4479-Alamo/MyProject2/Content/FPAlamoMap_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Users/HamDo/Documents/Git/ATCM4479-Alamo/MyProject2/Content/FPAlamoMap_sharedassets/Sand_LayerInfo.uasset",
 				"C:/Users/lvm210001/Documents/ATCM4479-Alamo/MyProject2/Content/FPAlamoMap.umap",
 				"C:/Users/lvm210001/Documents/ATCM4479-Alamo/MyProject2/Content/Assets/Props/SM_FergusonRifle_10_low.uasset",
 				"C:/Users/lvm210001/Documents/ATCM4479-Alamo/MyProject2/Content/Assets/Props/SM_Sandbag_04.uasset",
